@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import os
 
 # Client
-client = commands.Bot(command_prefix="?", intents=discord.Intents.all())
+client = commands.Bot(command_prefix="/", intents=discord.Intents.all())
 
 
 #Text Channel ID's ######################################
