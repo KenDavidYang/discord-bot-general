@@ -16,6 +16,6 @@ command prefix: /
 
 
 # Others
->can compliment
->fetch messages from channels
+>can compliment  
+>fetch messages from channels  
 >Python 3.10
